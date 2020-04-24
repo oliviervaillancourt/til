@@ -9,4 +9,4 @@ docker run -d --rm -p 127.0.0.11:80:80 nginx && \
 
 No clashes
 
-Original link: [Twitter post](https://twitter.com/clemensv/status/1244589698674286594)
+Source: [Twitter post](https://twitter.com/clemensv/status/1244589698674286594)
