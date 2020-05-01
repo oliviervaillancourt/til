@@ -12,7 +12,7 @@ Inspired by https://github.com/jbranchaud/til/blob/master/README.md
 
 * [Networking](#networking)
 * [Windows](#windows)
-* [VisualStudio](#visual studio)
+* [Visual Studio](#visualstudio)
 
 ---
 
