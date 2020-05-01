@@ -12,6 +12,7 @@ Inspired by https://github.com/jbranchaud/til/blob/master/README.md
 
 * [Networking](#networking)
 * [Windows](#windows)
+* [Visual Studio](#visual studio)
 
 ---
 
@@ -22,3 +23,7 @@ Inspired by https://github.com/jbranchaud/til/blob/master/README.md
 ### Windows
 
 - [Using WIN+1, WIN+2, etc to start application quickly (Windows 10)](windows/quickLaunch.md)
+
+### Visual Studio
+
+- [Re-attach debugger to last process](visualstudio/ReattachDebugger.md)
