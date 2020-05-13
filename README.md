@@ -13,6 +13,7 @@ Inspired by https://github.com/jbranchaud/til/blob/master/README.md
 * [Networking](#networking)
 * [Windows](#windows)
 * [Visual Studio](#visualstudio)
+* [Chrome Dev Tools](#Chrome_Dev_Tools) ... probably applies to Chromium-based Edge too
 
 ---
 
@@ -27,3 +28,7 @@ Inspired by https://github.com/jbranchaud/til/blob/master/README.md
 ### VisualStudio
 
 - [Re-attach debugger to last process](visualstudio/ReattachDebugger.md)
+
+### Chrome_Dev_Tools
+
+- [Holding shift key on request shows initiator and dependencies](chrome_dev_tools/highlight_initiator_and_depdencies.md)
