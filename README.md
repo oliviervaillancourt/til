@@ -14,6 +14,7 @@ Inspired by https://github.com/jbranchaud/til/blob/master/README.md
 * [Windows](#windows)
 * [Visual Studio](#visualstudio)
 * [Chrome Dev Tools](#Chrome_Dev_Tools) ... probably applies to Chromium-based Edge too
+* [Powershell](#Powershell)
 
 ---
 
@@ -32,3 +33,6 @@ Inspired by https://github.com/jbranchaud/til/blob/master/README.md
 ### Chrome_Dev_Tools
 
 - [Holding shift key on request shows initiator and dependencies](chrome_dev_tools/highlight_initiator_and_depdencies.md)
+
+### Powershell
+- [New Guid to clipboard](powershell/new-guid-to-clipboard.md)
