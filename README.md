@@ -21,6 +21,7 @@ Inspired by https://github.com/jbranchaud/til/blob/master/README.md
 ### Networking
 
 - [Diffrent 127.0.0.x ip instead of port for local dev](networking/different_local_ip_instead_of_ports.md)
+- [Display the wifi password of the network you are on](network/show_wifi_password.md)
 
 ### Windows
 
